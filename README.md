@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @pi3-141
 - 👀 I’m interested in physics, mathematics and computers
-- 🌱 I’m currently learning ML and how to live :)
+- 🌱 Starting the journey to become a front-end developer
+- 🌃 Trying to find the pieces...
 - 📫 Email: ma.parvizi.ii@gmail.com
