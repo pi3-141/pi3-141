@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @pi3-141
-- 👀 I’m interested in physics, mathematics and computers
-- 🌱 Starting the journey to become a front-end developer
-- 🌃 Trying to find the pieces...
+- 👋 Hi, I’m Amin(3.14...)
+- 👀 I’m interested in physics, mathematics and deep learning
 - 📫 Email: ma.parvizi.ii@gmail.com
